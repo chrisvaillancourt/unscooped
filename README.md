@@ -20,3 +20,9 @@ For production mode
 ### `npm run test`
 
 Run the test cases.
+
+## Data validation
+
+Fastify uses [JSON Schema](https://json-schema.org/) to validate incoming requests.
+
+See [validation and serialization](https://www.fastify.io/docs/latest/Reference/Validation-and-Serialization).
